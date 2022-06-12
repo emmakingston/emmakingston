@@ -26,7 +26,7 @@ I've been working with
 :shushing_face: Gitlab CI
 
 #### Before I graduated I
-⚡ was a 2020 MEng Computer Science student at the University of Southampton
+⚡ was a 2020 MEng Computer Science student at the University of Southampton  
 ⚡ worked mostly with Java and Python  
 ⚡ worked for a startup using drones sustainably for entertainment 
 
