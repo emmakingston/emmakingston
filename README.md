@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ##  ✨ Hello there! ✨
-I'm Emma, a cloud software dev with an interest in DevOps
+I'm Emma, a cloud software dev who's landed in a DevOps role too!
 
 #### Since I graduated
 I've been working with  
@@ -26,9 +26,15 @@ I've been working with
 :shushing_face: Gitlab CI
 
 #### Before I graduated I
-⚡ was a 2020 MEng Computer Science student  
+⚡ was a 2020 MEng Computer Science student at the University of Southampton
 ⚡ worked mostly with Java and Python  
 ⚡ worked for a startup using drones sustainably for entertainment 
 
+
+#### In the pipeline
+I want to get more hands on with some of the interesting stuff I haven't managed to use at work (yet!). Keep your eyes peeled for  
+:star2: a Kubernetes operator
+:star2: Github actions 
+:star2: software to make my life easier
 
 
