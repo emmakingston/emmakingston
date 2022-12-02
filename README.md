@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ##  ✨ Hello there! ✨
-I'm Emma, a cloud software dev who's landed in a DevOps role too!
+I'm Emma, a cloud software dev who's dabbling with DevOps!
 
 #### Since I graduated
 I've been working with  
