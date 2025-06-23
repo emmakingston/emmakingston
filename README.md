@@ -20,16 +20,11 @@ I'm Emma, a cloud software dev who's dabbling with DevOps!
 
 #### Since I graduated
 I've been working with  
+🌱 Python 
 🌱 Golang  
 🌱 Kubernetes  
 🌱 Terraform  
-:shushing_face: Gitlab CI
-
-#### Before I graduated I
-⚡ was a 2020 MEng Computer Science student at the University of Southampton  
-⚡ worked mostly with Java and Python  
-⚡ worked for a startup using drones sustainably for entertainment 
-
+⚡ Gitlab CI
 
 #### In the pipeline
 I want to get more hands on with some of the interesting stuff I haven't managed to use at work (yet!). Keep your eyes peeled for  
