@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ##  ✨ Hello there! ✨
-I'm Emma, a cloud software dev who's dabbling with DevOps!
-
+I'm Emma, a platform engineer @ Monzo 🚀
+<!--
 #### Since I graduated
 I've been working with  
 🌱 Python 
@@ -32,4 +32,4 @@ I want to get more hands on with some of the interesting stuff I haven't managed
 :star2: Github actions 
 :star2: software to make my life easier
 
-
+-->
